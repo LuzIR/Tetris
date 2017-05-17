@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+cout <<"Start\n";
+cin >> 1
+
+cout <<"Options\n";
+cin >> 2
+
+cout <<"Quit\n";
+cin >> 3
+return 0;
+}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cin >> 1; 
+    cout <<"Start\n" << 1 << endl;
+    
+    return 0;
+}
